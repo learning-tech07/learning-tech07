@@ -81,7 +81,7 @@
 - **Project Name 2** – Short description and link  
 - **Project Name 3** – Short description and link  
 
-*(Add your key projects here to showcase your work in full stack development or design.)*
+
 
 ---
 
