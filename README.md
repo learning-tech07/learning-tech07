@@ -75,13 +75,6 @@
 
 ---
 
-## 📁 Projects
-
-- **Project Name 1** – Short description and link  
-- **Project Name 2** – Short description and link  
-- **Project Name 3** – Short description and link  
-
-
 
 ---
 
