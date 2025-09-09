@@ -28,11 +28,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/learning-tech07/learning-tech07/output/snake.svg"
-     alt="Snake animation" />
-
----
-
 ## 👋 Hi, I’m Anamika
 
 🎓 CSE Student at GLA University, Mathura  
