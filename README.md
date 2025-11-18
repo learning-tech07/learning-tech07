@@ -1,3 +1,48 @@
+
+
+## 👋 Hi, I’m Anamika
+
+🎓 CSE Student at GLA University, Mathura  
+💻 Currently diving deep into Full Stack Development  
+🐇 Lifelong Learner | ☄ Curious Explorer  
+✨ I believe bugs are just "hidden features" waiting to be discovered  
+
+<img align="right"
+     height="250"
+     src="https://i.imgflip.com/65efzo.gif"
+     alt="Coding GIF" />
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=learning-tech07&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+       height="150"
+       alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learning-tech07&layout=compact&langs_count=5&theme=dracula&hide_border=false"
+       height="150"
+       alt="Top Languages" />
+</div>
+
+---
 <div align="left">
   <a href="https://www.instagram.com/_deary.diary_">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
@@ -24,47 +69,6 @@
          height="35"
          alt="Gmail" />
   </a>
-</div>
-
----
-
-## 👋 Hi, I’m Anamika
-
-🎓 CSE Student at GLA University, Mathura  
-💻 Currently diving deep into Full Stack Development  
-🐇 Lifelong Learner | ☄ Curious Explorer  
-✨ I believe bugs are just "hidden features" waiting to be discovered  
-
-<img align="right"
-     height="250"
-     src="https://i.imgflip.com/65efzo.gif"
-     alt="Coding GIF" />
-
----
-
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learning-tech07&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-       height="150"
-       alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learning-tech07&layout=compact&langs_count=5&theme=dracula&hide_border=false"
-       height="150"
-       alt="Top Languages" />
 </div>
 
 ---
