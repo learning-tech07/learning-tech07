@@ -59,6 +59,12 @@
          height="35"
          alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/anamika_0199/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge"
+         height="35"
+         alt="LeetCode" />
+  </a>
+  
   <a href="https://www.hackerrank.com/profile/_2415000199">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge"
          height="35"
