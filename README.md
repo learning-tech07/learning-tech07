@@ -42,6 +42,14 @@
 
 
 ---
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=learning-tech07&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learning-tech07&theme=dracula" />
+</p>
 <div align="left">
   <a href="https://www.instagram.com/_deary.diary_">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
