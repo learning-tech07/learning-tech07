@@ -8,7 +8,7 @@
 ✨ I believe bugs are just "hidden features" waiting to be discovered  
 
 <img align="right"
-     height="250"
+     height="180"
      src ="https://vidhi-mody.github.io/img/contribute.gif"
      alt="Coding GIF" />
 
